@@ -25,8 +25,12 @@ app.get('/welcome', (req, res) =>
   }),
 );
 
-app.post('/', function(req, res) {
-   
+app.get('/form', function(req, res) {
+  res.sendFile('public/form.html', { root: __dirname });
+});
+
+app.post('/form', function(req, res) {
+  
    var result ={ student_id: req.body.student_id,
      firstname: req.body.firstname,
      lastname: req.body.lastname,
