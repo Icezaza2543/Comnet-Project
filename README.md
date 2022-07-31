@@ -9,7 +9,6 @@
 - IoT Developer
 - IoT Product and Solution Expert
 
-
 # Programming abilities
 ## [Python](https://www.python.org/) languages.
 [![image](https://www.mindphp.com/images/articles/201911/python-logo-master-v3.png)](#)
@@ -21,3 +20,4 @@
 - Electronics
 - Circuit & Interfacing
 - Internet Of things
+- Power management
