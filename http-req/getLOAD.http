@@ -1,0 +1,13 @@
+POST /echo/post/json HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLC.
+Host: https://tools.ecpe.nu.ac.th/network/api/student/62363172
+Accept: application/json
+Content-Type: application/json
+Content-Length: 810
+      
+{
+  "fullname": "Terasit Juntarasombut",
+  "student_id": "62363172t",
+  "gpa": 2.00 ,
+  "position": "Student"
+}

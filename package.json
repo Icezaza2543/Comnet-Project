@@ -9,6 +9,7 @@
     "build": "tailwind build -i script/tailwind.css -o public/styles/style.css && cleancss -o public/styles/style.min.css public/styles/style.css"
   },
   "keywords": [
+    "node",
     "express"
   ],
   "author": "Terasit Juntarasombut",
