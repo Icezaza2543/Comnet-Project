@@ -19,5 +19,5 @@
 - Embedded Systems
 - Electronics
 - Circuit & Interfacing
-- Internet Of things
+- Internet of Things
 - Power management
